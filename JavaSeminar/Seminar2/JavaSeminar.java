@@ -2,7 +2,7 @@ import java.io.*;
 import java.lang.Math;
 import java.util.ArrayList;
 
-public class HW02 {
+public class JavaSeminar {
     public static void main(String args[]) throws Exception {
         BufferedReader reader = new BufferedReader(new FileReader("input.txt"));
         String str;
